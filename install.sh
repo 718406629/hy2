@@ -4,7 +4,6 @@
 HY_BIN="/usr/local/bin/hysteria"
 CONF_DIR="/etc/hysteria"
 CONF_FILE="$CONF_DIR/config.yaml"
-
 echo "请选择安装模式："
 echo "1) 有域名 (推荐)"
 echo "2) 无域名 (自签名)"
